@@ -1,0 +1,25 @@
+{
+  "name": "multi-thread-memory-queue",
+  "version": "1.0.0",
+  "description": "Multi thread in memmory queue working on prmisses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rabbit210/multi-thread-memory-queue.git"
+  },
+  "keywords": [
+    "multi",
+    "thread",
+    "memory",
+    "queue"
+  ],
+  "author": "Kostya Kulikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rabbit210/multi-thread-memory-queue/issues"
+  },
+  "homepage": "https://github.com/rabbit210/multi-thread-memory-queue#readme"
+}
