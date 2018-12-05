@@ -27,6 +27,9 @@ class Queue {
         }).catch(err => {
             if(task.callback) task.callback(err, task.data);
             this.complete(task);
+        }).catch(err => {
+            console.error(err);
+            this.complete(task);
         })
     }
 
